@@ -1,0 +1,2 @@
+To jest plik tekstowy na potrzeby laboratorium z programowania zaawansowanego II
+Następnie będziemy przygotowywać środowisko Angulara
