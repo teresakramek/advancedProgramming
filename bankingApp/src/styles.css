@@ -1,1 +1,64 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import '/bankingApp/src/app/app.component.css'; */
+
+
+body {
+    
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    background: url('../src/assets/images/background.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.logowanie {
+    width: 400px;
+    min-height: 300px;
+    background-color: rgba(0,0,0,0.5);
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px; 
+}
+
+.form-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
+form input {
+    width: auto;
+    height: auto;
+    padding: 5px 10px;
+    margin: 0;
+}
+
+button {
+    background-color: #c4ecf4;
+    width: 100%;
+    margin: 0;
+    border: none;
+    min-height: 40px;
+}
