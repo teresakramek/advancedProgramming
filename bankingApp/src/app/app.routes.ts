@@ -6,10 +6,7 @@ import { CommonModule } from '@angular/common';
 import { BrowserModule } from '@angular/platform-browser';
 
 
-
-export const routes: Routes = [
-    { path: 'logowanie', component: LogowanieComponent }
-];
+export const routes: Routes = [];
 
 @NgModule({
     imports: [ 
