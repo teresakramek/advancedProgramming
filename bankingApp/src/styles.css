@@ -9,7 +9,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* 
 .content {
     background: url('../src/assets/images/background.jpg');
     background-repeat: no-repeat;
@@ -20,7 +20,7 @@ body {
     align-items: center;
     width: 100%;
     min-height: 100vh;
-}
+} */
 
 .logowanie {
     width: 400px;
