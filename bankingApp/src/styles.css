@@ -9,8 +9,8 @@ body {
     margin: 0;
     padding: 0;
 }
-/* 
-.content {
+
+app-root {
     background: url('../src/assets/images/background.jpg');
     background-repeat: no-repeat;
     background-position: center;
@@ -20,7 +20,16 @@ body {
     align-items: center;
     width: 100%;
     min-height: 100vh;
-} */
+}
+
+app-menu {
+   
+}
+
+ul { 
+	
+}
+
 
 .logowanie {
     width: 400px;
